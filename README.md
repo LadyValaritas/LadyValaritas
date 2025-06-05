@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :wave::smiley:
 Hola, soy Maria Gabriela, pero mis amigos me dicen Maga, una mente curiosa atrapada entre líneas de código, ecuaciones y mil ideas por minuto. Me gusta construir cosas que funcionen y que cuenten una historia, ya sea una visualización de datos que revele algo oculto, una automatización que te ahorre un suspiro, o una lista con los problemas que nadie más quiso mirar pero que quizá valga la pena entender.
 <br><br>Estudié Matemáticas porque disfruto los desafíos, pero trabajo en tecnología porque me apasiona convertir la lógica en soluciones reales. En mi día a día, soy desarrolladora, analista de datos, y a veces, cuando la noche es larga y la inspiración golpea, una artista del caos creativo.<br>
 <br>🐭 Soy fanática de los animales (especialmente mis cinco ratas de laboratorio), me pierdo en la literatura fantástica, adoro capturar atardeceres y edificios con mi cámara y tengo una habilidad poco útil pero divertida: puedo hacer origami mientras debugeo y pienso mejor las soluciones cuando puedo tener tiempo para preparar un buen postre.<br>
