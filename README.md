@@ -1,11 +1,13 @@
 # 💫 About Me :wave::smiley:
 Hola, soy Maria Gabriela, pero mis amigos me dicen Maga, una mente curiosa atrapada entre líneas de código, ecuaciones y mil ideas por minuto. Me gusta construir cosas que funcionen y que cuenten una historia, ya sea una visualización de datos que revele algo oculto, una automatización que te ahorre un suspiro, o una lista con los problemas que nadie más quiso mirar pero que quizá valga la pena entender.
 <br><br>Estudié Matemáticas porque disfruto los desafíos, pero trabajo en tecnología porque me apasiona convertir la lógica en soluciones reales. En mi día a día, soy desarrolladora, analista de datos, y a veces, cuando la noche es larga y la inspiración golpea, una artista del caos creativo.<br>
-<br>🐭 Soy fanática de los animales (especialmente mis cinco ratas de laboratorio), me pierdo en la literatura fantástica, adoro capturar atardeceres y edificios con mi cámara y tengo una habilidad poco útil pero divertida: puedo hacer origami mientras debugeo y pienso mejor las soluciones cuando puedo tener tiempo para preparar un buen postre.<br>
+<br>🐭 Soy fanática de los animales (especialmente mis cuatro ratas de laboratorio), me pierdo en la literatura fantástica, adoro capturar atardeceres y edificios con mi cámara y tengo una habilidad poco útil pero divertida: puedo hacer origami mientras debugeo y pienso mejor las soluciones cuando puedo tener tiempo para preparar un buen postre.<br>
 <br>🧶 También hago crochet. Sí, puedo tejer tu gorro y tu API.<br>
-<br>Actualmente estoy trabajando en un side quest: Sobrevivir al desempleo mientras trabajo en buscar trabajo. Y cuando no estoy haciendo eso, probablemente esté descargando bases de datos de kaggle para hacer algunos graficos curiosos o creando algun prototipo para automatizar algo que me parecía demasiado aburrido como para hacer a mano.<br>
+<br>Mi objetivo actual es convertirme en senior de analisis de datos, en aprender mas herramientas que me vuelvan no util, sino necesaria en un equipo, dar lo mejor de mi, y claro, buscar nuevos retos.
+<br> La pregunta mas dificil que me han hecho este año ha sido: Como te ves de aqui a 5 años? La verdad, aun no tengo respuesta a eso, estoy trabajando en ello todavia, y espero que mi presente me lleve a un buen lugar. mientras tanto, el ahora es lo que me da impulso. <br>
+
 <br>☁️ Tech & Tools I like<br>
-<br>Python / Pandas / Jupyter<br>
+<br>Python / Jupyter<br>
 <br>SQL / PowerBI / Excel<br>
 <br>Google Cloud & APIs (tengo merch de postman!)<br>
 <br>Notion (mi segundo cerebro)<br>
