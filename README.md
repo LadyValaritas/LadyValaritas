@@ -4,7 +4,7 @@ Hola, soy Maria Gabriela, pero mis amigos me dicen Maga, una mente curiosa atrap
 <br>🐭 Soy fanática de los animales (especialmente mis cuatro ratas de laboratorio), me pierdo en la literatura fantástica, adoro capturar atardeceres y edificios con mi cámara y tengo una habilidad poco útil pero divertida: puedo hacer origami mientras debugeo y pienso mejor las soluciones cuando puedo tener tiempo para preparar un buen postre.<br>
 <br>🧶 También hago crochet. Sí, puedo tejer tu gorro y tu API.<br>
 <br>Mi objetivo actual es convertirme en senior de analisis de datos, en aprender mas herramientas que me vuelvan no util, sino necesaria en un equipo, dar lo mejor de mi, y claro, buscar nuevos retos.
-<br> La pregunta mas dificil que me han hecho este año ha sido: Como te ves de aqui a 5 años? La verdad, aun no tengo respuesta a eso, estoy trabajando en ello todavia, y espero que mi presente me lleve a un buen lugar. mientras tanto, el ahora es lo que me da impulso. <br>
+<br><br> La pregunta mas dificil que me han hecho este año ha sido: Como te ves de aqui a 5 años? La verdad, aun no tengo respuesta a eso, estoy trabajando en ello todavia, y espero que mi presente me lleve a un buen lugar. mientras tanto, el ahora es lo que me da impulso. <br><br>
 
 <br>☁️ Tech & Tools I like<br>
 <br>Python / Jupyter<br>
